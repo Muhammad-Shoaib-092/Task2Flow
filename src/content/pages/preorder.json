@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "eyebrow": "Early access",
+    "headline": "Lock in your price before launch",
+    "subheadline": "Pre-order customers get lifetime early-bird pricing, priority access at launch, and a dedicated onboarding session. Offer ends December 31, 2026."
+  },
+  "perks": [
+    {
+      "id": "p1",
+      "title": "Lifetime early-bird price",
+      "description": "Your pre-order rate is locked in forever — even as prices increase at launch."
+    },
+    {
+      "id": "p2",
+      "title": "Priority access",
+      "description": "Be first in the door when we open the gates. No waiting in a general queue."
+    },
+    {
+      "id": "p3",
+      "title": "Dedicated onboarding",
+      "description": "A 1-on-1 session with our team to get your first workflows running on day one."
+    },
+    {
+      "id": "p4",
+      "title": "Shape the roadmap",
+      "description": "Pre-order customers get a direct line to the product team and vote on what we build next."
+    }
+  ],
+  "fomo": {
+    "spotsLeft": "412",
+    "deadline": "December 31, 2026"
+  }
+}

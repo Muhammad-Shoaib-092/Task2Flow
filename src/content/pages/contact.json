@@ -1,0 +1,31 @@
+{
+  "hero": {
+    "eyebrow": "Get in touch",
+    "headline": "We'd love to hear from you",
+    "subheadline": "Questions, feedback, or just want to say hi — we read and respond to every message."
+  },
+  "channels": [
+    {
+      "id": "c1",
+      "title": "Email us",
+      "detail": "hello@task2flow.com"
+    },
+    {
+      "id": "c2",
+      "title": "Live chat",
+      "detail": "Available on the site — look for the chat bubble."
+    },
+    {
+      "id": "c3",
+      "title": "Response time",
+      "detail": "We reply within 24 hours on business days."
+    }
+  ],
+  "form": {
+    "heading": "Send a message",
+    "successTitle": "Message sent!",
+    "successBody": "Thanks for reaching out. We'll get back to you within 24 hours.",
+    "submitLabel": "Send message",
+    "sendingLabel": "Sending…"
+  }
+}

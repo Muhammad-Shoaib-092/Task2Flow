@@ -1,0 +1,153 @@
+{
+  "avatars": [
+    {
+      "id": "av1",
+      "color": "bg-primary",
+      "initial": "AK"
+    },
+    {
+      "id": "av2",
+      "color": "bg-accent",
+      "initial": "MR"
+    },
+    {
+      "id": "av3",
+      "color": "bg-secondary",
+      "initial": "SL"
+    },
+    {
+      "id": "av4",
+      "color": "bg-primary/70",
+      "initial": "JP"
+    }
+  ],
+  "headlineWords": [
+    "Turn",
+    "Any",
+    "Task",
+    "Into",
+    "a",
+    "Workflow.",
+    "Instantly."
+  ],
+  "pricingTiers": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "priceMonthly": 0,
+      "priceAnnual": 0,
+      "description": "Perfect for individuals and small teams getting started.",
+      "features": [
+        "Up to 5 active workflows",
+        "AI task parsing (10/month)",
+        "20+ templates",
+        "Basic analytics",
+        "Email support"
+      ],
+      "cta": "Get Started Free",
+      "popular": false
+    },
+    {
+      "id": "pro",
+      "name": "Pro",
+      "priceMonthly": 29,
+      "priceAnnual": 23,
+      "description": "For growing teams who need unlimited automation power.",
+      "features": [
+        "Unlimited workflows",
+        "Unlimited AI task parsing",
+        "100+ templates",
+        "Advanced analytics & reports",
+        "Priority support",
+        "Custom integrations"
+      ],
+      "cta": "Pre-Order Pro",
+      "popular": true
+    },
+    {
+      "id": "team",
+      "name": "Team",
+      "priceMonthly": 79,
+      "priceAnnual": 63,
+      "description": "For organizations that run on workflows.",
+      "features": [
+        "Everything in Pro",
+        "Unlimited team members",
+        "Admin controls & permissions",
+        "SSO & SAML",
+        "Dedicated success manager",
+        "SLA guarantee"
+      ],
+      "cta": "Pre-Order Team",
+      "popular": false
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Aisha Kamara",
+      "role": "Head of Operations",
+      "company": "Nexus Labs",
+      "quote": "Task2Flow cut our onboarding time in half. I described our process in a paragraph and got a full workflow in seconds. The team adopted it overnight.",
+      "avatar": "AK"
+    },
+    {
+      "id": "t2",
+      "name": "Marcus Reid",
+      "role": "Founder & CEO",
+      "company": "Stackr",
+      "quote": "We were drowning in Notion docs and Slack threads. Task2Flow turned our chaos into a system. We save 8+ hours a week across the team.",
+      "avatar": "MR"
+    },
+    {
+      "id": "t3",
+      "name": "Sofia Liang",
+      "role": "Product Manager",
+      "company": "Orbit Health",
+      "quote": "The AI parser is genuinely magical. I've tried every workflow tool out there — nothing comes close to how fast Task2Flow gets you from idea to running process.",
+      "avatar": "SL"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq1",
+      "q": "How does the AI parse tasks?",
+      "a": "Task2Flow uses a fine-tuned language model trained on thousands of real-world workflows. You describe a task or process in plain English and the AI extracts steps, assigns owners, sets dependencies, and builds a structured workflow automatically."
+    },
+    {
+      "id": "faq2",
+      "q": "What tools does it integrate with?",
+      "a": "Task2Flow connects with 50+ tools including Slack, Notion, Jira, GitHub, Salesforce, HubSpot, Google Workspace, Zapier, and more. Our open API lets you connect any custom tool your team uses."
+    },
+    {
+      "id": "faq3",
+      "q": "Is my data secure?",
+      "a": "Absolutely. Task2Flow is SOC 2 Type II certified, with end-to-end encryption at rest and in transit. We never train our models on your data. Enterprise plans include SSO, SAML, and dedicated data residency options."
+    },
+    {
+      "id": "faq4",
+      "q": "What happens after I pre-order?",
+      "a": "You'll receive an email confirmation immediately. When we launch, you'll get early access before the general public, your pre-order price locked in for life, and a dedicated onboarding session with our team."
+    },
+    {
+      "id": "faq5",
+      "q": "Can I import existing workflows from other tools?",
+      "a": "Yes. Task2Flow can import from Notion, Asana, Monday.com, Trello, and more. Our AI also helps you clean up and restructure imported workflows so they are actually useful."
+    },
+    {
+      "id": "faq6",
+      "q": "Is there a free plan?",
+      "a": "Yes — our Starter plan is free forever with up to 5 active workflows and 10 AI parses per month. No credit card required to get started."
+    },
+    {
+      "id": "faq7",
+      "q": "How long does it take to set up?",
+      "a": "Most teams are running their first workflow within 5 minutes of signing up. There is no complex configuration — just describe your process and go."
+    },
+    {
+      "id": "faq8",
+      "q": "Do you offer a team trial?",
+      "a": "Yes. Pro and Team plans come with a 14-day free trial, no credit card required. Pre-order customers get an extended 30-day trial at launch."
+    }
+  ]
+}

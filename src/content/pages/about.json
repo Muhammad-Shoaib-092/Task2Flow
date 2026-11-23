@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "eyebrow": "Our story",
+    "headline": "Built by people who hate broken processes",
+    "subheadline": "Task2Flow started in a 3-person startup where every project lived in a different Slack thread. We built the tool we wished existed."
+  },
+  "mission": {
+    "headline": "Our mission",
+    "body": "We believe every team — from a two-person startup to a 500-person org — deserves workflows that actually work. Not rigid templates. Not another project management tool. Just a clear, repeatable path from idea to done.",
+    "values": [
+      {
+        "id": "v1",
+        "title": "Speed over ceremony",
+        "description": "Get to running workflows in minutes, not weeks. No onboarding calls required."
+      },
+      {
+        "id": "v2",
+        "title": "AI that earns its place",
+        "description": "We use AI where it genuinely saves time — parsing tasks, suggesting steps — not as a buzzword."
+      },
+      {
+        "id": "v3",
+        "title": "Teams first",
+        "description": "Every feature is designed for how real teams work: async, distributed, and always context-switching."
+      }
+    ]
+  },
+  "team": [
+    {
+      "id": "tm1",
+      "name": "Leila Nasser",
+      "role": "Co-founder & CEO",
+      "bio": "Former ops lead at two YC companies. Obsessed with removing friction from how teams work.",
+      "avatar": "LN"
+    },
+    {
+      "id": "tm2",
+      "name": "Daniel Park",
+      "role": "Co-founder & CTO",
+      "bio": "Built workflow tooling at Stripe and Notion. Believes great software should feel obvious.",
+      "avatar": "DP"
+    },
+    {
+      "id": "tm3",
+      "name": "Amara Osei",
+      "role": "Head of Design",
+      "bio": "Designed products used by millions at Figma and Linear. Joins to make Task2Flow the most intuitive tool in the space.",
+      "avatar": "AO"
+    },
+    {
+      "id": "tm4",
+      "name": "Ravi Mehta",
+      "role": "Head of Growth",
+      "bio": "Scaled two SaaS products from 0 to 50k users. Joins to bring Task2Flow to every team that needs it.",
+      "avatar": "RM"
+    }
+  ],
+  "stats": [
+    {
+      "id": "s1",
+      "value": "2,400+",
+      "label": "Teams on waitlist"
+    },
+    {
+      "id": "s2",
+      "value": "50+",
+      "label": "Integrations at launch"
+    },
+    {
+      "id": "s3",
+      "value": "< 5 min",
+      "label": "Average setup time"
+    },
+    {
+      "id": "s4",
+      "value": "8 hrs",
+      "label": "Saved per team per week"
+    }
+  ],
+  "cta": {
+    "headline": "Want to shape the product?",
+    "body": "We're talking to early users every week. If you want to influence what we build next, get on the waitlist and tell us what you need.",
+    "buttonText": "Join the Waitlist"
+  }
+}
